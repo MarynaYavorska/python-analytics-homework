@@ -10,5 +10,6 @@ print("Середнє значення:", df["sales"].mean())
 
 # PR check
 # PR 1
+# PR 2
 
 
