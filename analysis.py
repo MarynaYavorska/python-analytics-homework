@@ -9,5 +9,6 @@ print("Середнє значення:", df["sales"].mean())
 # test change
 
 # PR check
+# PR 1
 
 
